@@ -2,13 +2,13 @@ Absolutely, I'd be happy to help craft a creative and informative README file fo
 
 ---
 
-# CodeGen AI 🤖💻
+# AI Codes 🤖💻
 
 Welcome to CodeGen AI, your go-to solution for automated code generation using cutting-edge AI technology!
 
 ## Overview 🌟
 
-CodeGen AI is a powerful platform leveraging the prowess of AI algorithms to generate high-quality, efficient code snippets and structures, streamlining the development process. Seamlessly integrated with ReactJS for the frontend, Node.js and Express.js for the backend, MongoDB for data storage, Tailwind CSS for sleek styling, and Stripe for secure payment gateways, this project empowers developers with intelligent code creation.
+AI Codes is a powerful platform leveraging the prowess of AI algorithms to generate high-quality, efficient code snippets and structures, streamlining the development process. Seamlessly integrated with ReactJS for the frontend, Node.js and Express.js for the backend, MongoDB for data storage, Tailwind CSS for sleek styling, and Stripe for secure payment gateways, this project empowers developers with intelligent code creation.
 
 ## Features ✨
 
@@ -72,7 +72,7 @@ Follow these simple steps to get started:
 
 ## Contributions & Support 🤝
 
-Contributions are welcomed and encouraged! Feel free to fork this repository, make improvements, and submit pull requests. For any questions, suggestions, or issues, please open an issue or reach out to [your-email@example.com](mailto:your-email@example.com).
+Contributions are welcomed and encouraged! Feel free to fork this repository, make improvements, and submit pull requests. For any questions, suggestions, or issues, please open an issue or reach out to [im.rishabhmjain@gmail.com](mailto:im.rishabhmjain@gmail.com).
 
 ## License 📝
 
