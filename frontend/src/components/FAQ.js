@@ -2,7 +2,12 @@ import React from 'react'
 
 const FAQ = () => {
     return (
-        <div className="space-y-4">
+        <div className="space-y-4 mb-20 ">
+            <h2
+                className="text-center text-4xl font-bold tracking-tight mt-20 text-gray-900 sm:text-5xl"
+            >
+                Read the frequently asked questions
+            </h2>
             <details
                 className="group border-s-4 border-green-500 bg-gray-50 p-6 [&_summary::-webkit-details-marker]:hidden"
                 open
@@ -37,7 +42,7 @@ const FAQ = () => {
             </details>
 
             <details
-                className="group border-s-4 border-green-500 bg-gray-50 p-6 [&_summary::-webkit-details-marker]:hidden"
+                className="group border-s-4  border-green-500 bg-gray-50 p-6 [&_summary::-webkit-details-marker]:hidden"
             >
                 <summary className="flex cursor-pointer items-center justify-between gap-1.5">
                     <h2 className="text-lg font-medium text-gray-900">
