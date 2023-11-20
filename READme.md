@@ -1,5 +1,3 @@
-Absolutely, I'd be happy to help craft a creative and informative README file for your GitHub project on "Code Generation using AI." Let's make it engaging with some emojis and professional language.
-
 ---
 
 # AI Codes 🤖💻
